@@ -2,7 +2,8 @@
 
 A clean and responsive **Bio Card** built using only HTML and CSS. This card is perfect for personal websites, portfolios, or developer landing pages.
 
-![Bio Card Screenshot](https://i.ibb.co/tpJ85xNn/card-preview.png)
+![Bio Card Preview](https://i.ibb.co/tpJ85xNn/card-preview.png)
+
 
 ## 🌟 Features
 
